@@ -86,6 +86,7 @@ You can also run multiple servers with only one SteamCMD directory!</Description
       <Name>USERNAME</Name>
       <Mode/>
     </Variable>
+	<Variable>
       <Value>99</Value>
       <Name>UID</Name>
       <Mode/>
