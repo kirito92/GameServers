@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>WurmUnlmited</Name>
-  <Repository>ich777/steamcmd:wurmul</Repository>
+  <Repository>kirito92/gameservers:wurmul</Repository>
   <Registry>https://hub.docker.com/r/kirito92/gameservers/</Registry>
   <Network>bridge</Network>
   <MyIP/>
